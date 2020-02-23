@@ -12,11 +12,10 @@ profile:
 
 ---
 
-testing testing
 
 I'm a third year graduate student in the [Linguistics Department](http://ling.umd.edu/) at the [University of Maryland, College Park](http://www.umd.edu/) where I'm also a [Language Science Fellow](https://languagescience.umd.edu/lsf). 
 
-Broadly, I'm interested in the semantics and pragmatics of wh-words, and their acquisition. I'm advised by [Valentine Hacquard](http://ling.umd.edu/~hacquard/) and [Jeff Lidz](http://ling.umd.edu/~jlidz/). See [research](menu/research.md) for more. 
+Broadly, I'm interested in the semantics and pragmatics of wh-words, and their acquisition. I'm advised by [Valentine Hacquard](http://ling.umd.edu/~hacquard/) and [Jeff Lidz](http://ling.umd.edu/~jlidz/). See [research](menu/research.html) for more. 
 
 When I'm not doing linguistics, I help take care of community cats with [A Cat's Life Rescue](https://www.acatsliferescue.org).  
 
