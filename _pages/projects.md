@@ -22,6 +22,9 @@ Broadly, I am interested in the interaction of meaning, structure and context ac
    {{ project.description }}  
  </p>  
 
+<p>{{project.content}}</p>
+
+
 <p>
   <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
         {% if project.img %}
@@ -30,9 +33,7 @@ Broadly, I am interested in the interaction of meaning, structure and context ac
         <div class="thumbnail blankbox"></div>
         {% endif %}    
     </a>
-</p>
-
-        
+</p>        
 
 
 {% endfor %}
