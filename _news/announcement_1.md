@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-12-22 15:59:00-0400
+date: 2020-Aug-19 08:59:00-0400
 inline: true
 ---
 
- I presented my work "Do children know *whanything*? Acquisition of *wh*-ambiguity in Mandarin" with [Dan Goodhue](http://www.danielgoodhue.com/), [Valentine Hacquard](http://ling.umd.edu/~hacquard/), and [Jeff Lidz](http://ling.umd.edu/~jlidz/) at [WCCFL2020](https://wccfl2020.linguistics.ubc.ca/), check out our [slides](../assets/pdf/WHanything_WCCFL.pdf)! 
+Mingming Liu and I will present our work "Modal wh-indefinites in Mandarin" virtually at [Sinn und Bedeutung 25](https://osf.io/meetings/SuB25/). Check out our [OSF page] (https://osf.io/wstaf/)!
