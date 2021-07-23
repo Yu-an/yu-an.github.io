@@ -26,7 +26,7 @@ Broadly, I am interested in the interaction of meaning, structure and context ac
 </h3>
 
 <div>
-<div style="width:60%;text-align: justify;">
+<div style="width:100%;text-align: justify;">
 {{project.content}}
 </div>
 </div>
