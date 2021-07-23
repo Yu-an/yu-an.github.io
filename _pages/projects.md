@@ -14,26 +14,21 @@ Broadly, I am interested in the interaction of meaning, structure and context ac
 
 {% for project in site.projects %}
 
+<div style="float:right;max-width: 40%;padding-top:7px;">
+        {% if project.img %}
+        <img style="width:100%" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
+        {% else %}
+        <div class="thumbnail blankbox"></div>
+        {% endif %}    
+</div>
 <h3 class = "project" >
     {{ project.title }}
 </h3>
 
-<p> 
-   {{ project.description }}  
- </p>  
-
-<p>{{project.content}}</p>
-
-
-<p>
-  <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-    </a>
-</p>        
-
+<div>
+<div style="width:60%;text-align: justify;">
+{{project.content}}
+</div>
+</div>
 
 {% endfor %}
