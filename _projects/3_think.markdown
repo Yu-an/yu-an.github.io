@@ -1,9 +1,11 @@
 ---
 layout: page
-title: ''Think'' crosslinguistically
-description: Semantics and pragmatics of belief reports and their acquisition
+title: The acquisition of attitude verbs in Mandarin
+description: 
 img: /assets/img/boyWonder.png
 ---
-Preschoolers tend to fall prey to false belief errors and reject think-sentences like (1) when the complement clause is false. However, Lewis et al (2017) show that making beliefs salient by introducing two characters (e.g., Donald vs. Minnie) with conflicting beliefs improves three-year olds' performance significantly. We that the same manipulation does not help Mandarin-speaking children with *juede* “think”.
+In this project, I'm interested in Mandarin-speaking children's knowledge of attitude verbs, and how do they come to learn these attitude verbs. For the first question, I conducted behavioral studies exploring children's understanding of *juede* “think” (collaborative work with Valentine Hacquard and Jeffrey Lidz). 
+Output: [paper](http://www.lingref.com/bucld/45/BUCLD45-23.pdf); [slides](https://osf.io/cy79q/)
 
-BU2020
+To answer the how question, I examined children's input to see what kind of information is available to children (collaborative work with Nick Huang)
+Output: [abstract](../assets/pdf/WHattitude_abstract.pdf)
