@@ -3,9 +3,9 @@ layout: page
 title: projects
 permalink: /projects/
 ---
-Broadly, I am interested in the interaction of meaning, structure and context across different languages, in connection with language acquisition: 
+Broadly, I am interested in the interaction of semantics, syntax and pragmatics across different languages, in connection with language acquisition: 
 
--- Cross-linguistically, how does meaning interact with syntactic structure and pragmatic context? 
+-- Cross-linguistically, how does meaning interact with the syntactic structure and pragmatic contexts? 
 
 -- Does the interaction simplify or complicate the task of acquiring meaning? 
 
