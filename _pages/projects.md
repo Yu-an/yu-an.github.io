@@ -14,9 +14,9 @@ Broadly, I am interested in the interaction of meaning, structure and context ac
 
 {% for project in site.projects %}
 
-<div style="float:right;max-width: 40%;padding-top:7px;">
+<div style="float:right;max-width: 40%;max-height: 50px;padding-top:7px;">
         {% if project.img %}
-        <img style="width:100%" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
+        <img style="width:50%;float:right;" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
