@@ -23,10 +23,12 @@ Broadly, I am interested in the interaction of semantics, syntax and pragmatics 
 <h3 class = "project-title" >
     {{ project.title }}
 </h3>
+<h5 class = "project-description" >{{ project.description }}</h5>
 
 <div>
 <div class="project-text">
 {{project.content}}
+
 </div>
 </div>
 

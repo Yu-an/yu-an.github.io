@@ -38,19 +38,7 @@
                 font-style: normal;
             }
         }
-        .url {
-            a {
-                border-bottom: 1px dashed $theme-color;
-                &:hover {
-                    border-bottom-style: solid;
-                    text-decoration: none;
-                }
-            }
-            > em {
-                border-bottom: 1px solid;
-                font-style: normal;
-            }
-        }
+        
         a.abstract, a.bibtex { cursor: pointer; }
         .hidden {
             font-size: $small-font-size;
