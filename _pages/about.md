@@ -12,9 +12,9 @@ profile:
 news: true
 social: true
 ---
-I'm a fifth year graduate student in the [Linguistics Department]({{site.data.coauthors["UMDling"].url}}" target="_blank"}}) at the [University of Maryland, College Park]({{site.data.coauthors["UMD"].url}}" target="_blank"}}) where I'm also a [Language Science Fellow]({{site.data.coauthors["UMDlsf"].url}}" target="_blank"}}). 
+I'm a fifth year graduate student in the <a href="{{site.data.coauthors["UMDling"].url}}" target="_blank">Linguistics Department</a> at the <a href="{{site.data.coauthors["UMD"].url}}" target="_blank">University of Maryland, College Park</a> where I'm also a <a href="{{site.data.coauthors["UMDlsf"].url}}" target="_blank">Language Science Fellow</a>. 
 
-Broadly, I'm interested in the semantics and pragmatics of wh-words (both in questions and as indefinites), and their acquisition. I'm advised by [Valentine Hacquard]({{site.data.coauthors["Valentine"].url}}" target="_blank"}}) and [Jeffrey Lidz]({{site.data.coauthors["Jeffrey"].url}}" target="_blank"}}). See [projects](/projects/) for more. 
+Broadly, I'm interested in the semantics and pragmatics of wh-words (both in questions and as indefinites), and their acquisition. I'm advised by <a href="{{site.data.coauthors["Valentine"].url}}" target="_blank">Valentine Hacquard</a> and <a href="{{site.data.coauthors["Jeffrey"].url}}" target="_blank">Jeffery Lidz</a>. See [projects](/projects/) for more. 
 
 When I'm not doing linguistics, I help take care of community cats with [A Cat's Life Rescue](https://www.acatsliferescue.org).  
 
