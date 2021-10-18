@@ -10,4 +10,4 @@ In this project, I'm interested in Mandarin-speaking children's knowledge of att
 
 How do children learn the subcategorization property of attitude verbs (e.g. *know* selects both declaratives and interrogatives, but *think* only selects declaratives)? I examined children's input to see what kind of information is available to children (collaborative work with <a href="{{site.data.coauthors["Nick"].url}}" target="_blank">Nick Huang</a>).
 
-- Output: [abstract](../assets/pdf/WHattitude_abstract.pdf)
+- Output: [abstract](../assets/pdf/WHattitude_abstract.pdf); [slides](../assets/pdf/Questionhood_abstract_LSA.pdf)

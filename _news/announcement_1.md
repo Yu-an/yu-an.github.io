@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-Jul-21 
+date: 2021-Sep-10 
 inline: true
 ---
 
-[Nick Huang](https://sites.google.com/view/znhuang/home) and I will present our work " Learning Subcategorization Properties of Attitude Verbs in Wh in-situ Languages" virtually at [BUCLD 46](https://www.bu.edu/bucld/)! 
+I will be competiting in the LSA 5-Minute Linguist Competition in Jan 2022! Let me know if you have any suggestions! I will also be presenting our project "Learning to identify questions in early speech to children" at LSA Annual Conference.`

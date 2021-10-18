@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-Dec-31 
+date: 2021-Jul-21 
 inline: true
 ---
 
-My paper [Representing the issue as open: Mandarin discourse particle *ba*](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/30.523) is now published as part of SALT30's proceedings online! I'm still working on this project, so comments and suggestions are welcome!
+[Nick Huang](https://sites.google.com/view/znhuang/home) and I will present our work " Learning Subcategorization Properties of Attitude Verbs in Wh in-situ Languages" virtually at [BUCLD 46](https://www.bu.edu/bucld/)! 
