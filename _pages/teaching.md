@@ -15,7 +15,7 @@ As the main instructor:
 
 As TA:
 - LING 444 Language Acquisition (Spring 2021, Instructor: <a href="{{site.data.coauthors["Jeffrey"].url}}" target="_blank">Jeffery Lidz</a>)
-- PHIL 360/LING 350 Phillosophy of Language (Instructor: Spring 2020, <a href="{{site.data.coauthors["Alexander"].url}}" target="_blank">Alexander Williams</a>)
+- PHIL 360/LING 350 Phillosophy of Language (Spring 2020, Instructor: <a href="{{site.data.coauthors["Alexander"].url}}" target="_blank">Alexander Williams</a>)
 - LING 200 Introduction to Linguistics (Spring 2019, Instructor: <a href="{{site.data.coauthors["Peggy"].url}}" target="_blank">Peggy Antonisse</a>)
 - LING 200 Introduction to Linguistics (Fall 2019, Instructor: <a href="{{site.data.coauthors["Tonia"].url}}" target="_blank">Tonia Bleam</a>)
 
