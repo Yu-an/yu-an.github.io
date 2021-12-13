@@ -6,7 +6,7 @@ title: teaching
 
 As the main instructor:
 - LING 449 Questions: meaning, use, learning (Fall 2020)
-    + This seminar for senior undergraduates discussed different semantic theories of questions, the role of questions in conversations, and how children might learn to identify questions from their input
+    + This seminar for senior undergraduates at University of Maryland, where we discussed different semantic theories of questions, the role of questions in conversations, and how children might learn to identify questions from their input
     + Due to COVID19, the class was moved online
     + Here is my [syllabus](../assets/pdf/LING449Questions-syllabus.pdf)
     + Feel free to contact me for course materials/my experience with online teaching!
