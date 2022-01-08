@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-Sep-10 
+date: 2022-Jan-8 
 inline: true
 ---
 
-I will be competiting in the LSA 5-Minute Linguist Competition in Jan 2022! Let me know if you have any suggestions! I will also be presenting our project "Learning to identify questions in early speech to children" at LSA Annual Conference.
+My talk "Are you asking me? Learning to identify questions in early speech to children" received an honorable mention at the Five-Minute Linguist Competition! Watch the video [here](https://youtu.be/7SehUOKnQSo).
