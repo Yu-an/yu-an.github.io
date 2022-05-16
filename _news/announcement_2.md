@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-Jan-8 
+date: 2022-Feb-14 
 inline: true
 ---
 
-My talk "Are you asking me? Learning to identify questions in early speech to children" received an honorable mention at the LSA's Five-Minute Linguist Competition! Watch the video [here](https://youtu.be/7SehUOKnQSo).
+I have been awarded a Doctoral Dissertation Research Improvement Grant by the National Science Foundation to support my dissertation project investing how children learn to identify clause types and speech acts! I will present some preliminary findings at [Commit22](https://www.leibniz-zas.de/de/das-zas/veranstaltungen/details/events/commitments-in-grammar-and-discourse-commit22-1), check out my slides [here](assets/pdf/Questionhood_interrogativity_Commit22.pdf).
