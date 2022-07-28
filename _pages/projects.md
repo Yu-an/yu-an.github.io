@@ -3,14 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 ---
-Broadly, I am interested in the interaction of semantics, syntax and pragmatics across different languages, in connection with language acquisition: 
-
--- Cross-linguistically, how does meaning interact with the syntactic structure and pragmatic contexts? 
-
--- Does the interaction simplify or complicate the task of acquiring meaning? 
-
--- Are solutions to the acquisition of semantics that draw on pragmatics and syntax general enough to deal with the cross-linguistic differences? 
-
+My research concerns structures that indicate, not only *what* a speaker is saying, but also *why* they are saying it, and how it is supposed to relate to the conversation. I approach these structures in two ways: as a semanticist, I look for the simplest analysis of these structures; as an acquisitionist, I ask how children acquire these meanings. Here are some of my projects:
 
 {% for project in site.projects %}
 <div>

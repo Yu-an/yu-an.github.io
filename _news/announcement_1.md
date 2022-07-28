@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-May-15 
+date: 2022-July-15 
 inline: true
 ---
 
-Our paper "Do children know WHanything? 3-year-olds know the ambiguity of wh-phrases in Mandarin" is published online in [Langauge Acquisition](https://www.tandfonline.com/eprint/KFTH9AKT7PIGBKRMF54R/full?target=10.1080/10489223.2021.2020275)! 
+I defended! Check out my dissertation [here](https://lingbuzz.net/lingbuzz/006730)! I'm also going to present parts of it (chapter 3 and 5) at this year's BUCLD; hope to see you there!
